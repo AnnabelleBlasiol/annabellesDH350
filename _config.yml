@@ -10,7 +10,7 @@ description: A Blog about DH
 # !! DON'T EDIT BELOW THIS MESSAGE
 #
 # Use the following plug-ins
-plugins:
+plugins: - jekyll-remote-theme
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -21,3 +21,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+remote_theme: pages-themes/minimal@v0.2.0
