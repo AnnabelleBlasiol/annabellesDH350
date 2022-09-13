@@ -1,4 +1,4 @@
-Review of “The shape of history”
+####Review of “The shape of history”
 
 I chose to review the shape of history for two reasons, first, I picked my subject late and there were not many options left. Second, and more importantly, it was visually appealing. When you first open the website ( http://shapeofhistory.net/#splash) you are greeted with a nice cover page. The website is very easy to navigate with arrows leading you in the correct direction, although, if you’re like me and fail to read instructions it is very easy to go the wrong way. While that is an error on my end I feel as if they could make the page in such a way where you can only go the correct way. If you fail to navigate it properly, it can be confusing and will ultimately make no sense.
 
