@@ -5,7 +5,7 @@ I chose to review "the shape of history" for two reasons, first, I picked my sub
 
 The shape of history is an interactive work of historical visualization. The most intuitive part of this website is an event grid that you can play. The grid is laid out like the popular game Sudoku and allowed me to add events, the site also has a “learn” section that is the same grid already filled out. In this second grid there’s a few different options, like tables of the sixteenth century through the nineteenth century, as well as table of Woman’s History, and 100 days before the 2016 Election. 
 
-![explorepage](annabellesDH350/Images/playpage.jpg)
+![explorepage]((https://AnnabelleBlasiol.github.io/annabellesDH350/Images/playpage.jpg)
 
 Upon reading the introduction page I learned the purpose behind this website, the page was inspired by “Elizabeth Palmer Peabody and her writings.” She created this system of tables to help others learn through shapes and colors, as she had a desire to, “appeal to the mind’s eye.” Her goal was to allow students to create their own colorful, shape filled, account of the past. The visualization is a way to make processing the information and underlying data easier. 
 
@@ -15,7 +15,9 @@ I loved having both and introduction page as well as a “How To” page. Having
 
 The next page I am going to discuss is my personal favorite. This is the page “Play,” which allows you to add and label your own events onto a grid. On this page you can make your own grid of history, it could be the history of America, the history of your family, or something as simple as the history of your favorite tv show. This page allows you to be as historical accurate or creative as you please. 
 Finally, we have the credits page, nothing too special, just links to different people, companies, or services. However, one of the links to one of the websites designers is a broken link. Other than that, this page is pretty simple. 
-![playpage.jpg](annabellesDH350/Images/playpage.jpg)
+
+![playpage.jpg]((https://AnnabelleBlasiol.github.io/annabellesDH350/Images/playpage.jpg)
+
 Honestly, I really enjoyed the layout of this website. Everything worked the way it was meant to excluding the one broken link. The website is clean and easy to navigate, and the sudoku playing board is full of many events that are interactive and engaging. If I were to change anything about this website, I would make it so you can only click through the site in the direction that it is meant to be displayed in. However, I can understand how having the option to click any way you like is beneficial. For example, if someone clicked past their page before they finished reading, they can easily get back to that page. This was a well-made interactive digital humanities project. I am glad I had the chance to explore and review this website. In the end, I am glad this was one of the few options left for me to review as it ended up being a very interesting website. A website I was also able to share with my history loving family members. 
 
 This project could not have been done without the use of technology. Having the capabilities, we have today has allowed this project to grow into a fun interactive way of learning about history.
