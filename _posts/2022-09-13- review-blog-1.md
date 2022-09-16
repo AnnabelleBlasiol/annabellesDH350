@@ -3,6 +3,8 @@
 
 I chose to review "the shape of history" for two reasons, first, I picked my subject late and there were not many options left. Second, and more importantly, it was visually appealing.[The shape of history](http://shapeofhistory.net/) is an interactive work of historical visualization. The project was thought of by "Lauren Klein", the site was designed by "Lauren Klein, Caroline Foster, and Erica Pramer." 
 
+![shape of history cover photo](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/shapeofhistorycoverpage.png)
+
 Upon first opening the project, I was greeted with a nice cover page. The website is very easy to navigate with arrows leading me in the correct direction, although, if you’re like me and fail to read instructions it is very easy to go the wrong way. While that is an error on my end I feel as if they could make the page in such a way where you can only go the correct way. If you fail to navigate it properly, it can be confusing and will ultimately make no sense.
 
 Once I read the introduction page I learned the purpose behind this website, the page was inspired by “Elizabeth Palmer Peabody and her writings.” She created this system of tables to help others learn through shapes and colors, as she had a desire to, “appeal to the mind’s eye.” Her goal was to allow students to create their own colorful, shape filled, account of the past. The visualization is a way to make processing the information and underlying data easier. So while the project isn't giving us any new information on history it is providing us with a different way to understand history. 
