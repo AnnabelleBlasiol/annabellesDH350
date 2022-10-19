@@ -16,6 +16,8 @@ This timeline may not advance knowledge about the subject matter, but it may be 
 
 The Timeline of Developmental Theory uses a website called “timeline toast” to make this project a reality. It has three different formats, default view, wide view, and fullscreen mode. Another format you can toggle to is list, this completely changes it from a timeline into a simple list. It also allows you to browse the timeline and adjust the start or end years.
 
+[listviewoftimelineofdevelopmentaltheory.png](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/listviewoftimelineofdevelopmentaltheory.png)
+
  It uses this technology to advance its goals and make it easier to learn about the different thinkers and theorists. This is a great feature for a teaching situation where only the years 1750-1900 are important. The use of technology is nicely demonstrated, as it allows the viewers to have a visual aid which could help in the memorization of developmental psychology information displayed. However, I do believe that traditional scholarship could easily replicate this technology, as it is not too complex that it cannot be copied. The website is easy to navigate as it is small, and everything is maintained in one page
 
 Something that could’ve been improved would be adding more context in certain places. For example, the years provided for each theorist has no context saying it was their birth and death years. I had to figure this out on my own, as my initial thought when I saw the years was that it had something to do with the length of their career. To me, this project is less of a timeline of the theories and more of a timeline of the theorists, since it does not actually mention which theories came first. 
