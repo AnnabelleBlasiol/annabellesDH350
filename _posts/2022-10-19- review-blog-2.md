@@ -4,6 +4,8 @@ Project url: https://www.timetoast.com/timelines/timeline-of-developmental-theor
 
 ## Review on [“Timeline of Developmental Theory”](https://www.timetoast.com/timelines/timeline-of-developmental-theory)
 
+![homepageoftimelineofdevelopmentaltheory.png]
+
 The project I am reviewing is the “Timeline of Developmental Theory”, there is no real name for who made this project, but the username given is “cstemple”. This is a timeline about developmental theorists,  including their theories, their birth and death year, as well as a brief summary of the ideas they contributed. 
 
 This project touches in the humanistic field of history, while it is talking about psychology and theories, it is focused on the history of each theorist. This project allows people who are interested in history or psychology to get a basic understanding of the history of developmental psychology. It does well to demonstrate how it engages with the humanities discipline by exhibiting aspects of both history and Development Psychology.
