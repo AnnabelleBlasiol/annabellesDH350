@@ -6,7 +6,7 @@ Project url: https://www.timetoast.com/timelines/timeline-of-developmental-theor
 
 ## Review on [“Timeline of Developmental Theory”](https://www.timetoast.com/timelines/timeline-of-developmental-theory)
 
-![homepageoftimelineofdevelopmentaltheory.png](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/homepageoftimelineofdevelopmentaltheory.png)
+![homepageoftimelineofdevelopmentaltheory](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/homepageoftimelineofdevelopmentaltheory.png)
 
 The project I am reviewing is the “Timeline of Developmental Theory”, there is no real name for who made this project, but the username given is “cstemple”. This is a timeline about developmental theorists,  including their theories, their birth and death year, as well as a brief summary of the ideas they contributed. 
 
@@ -16,13 +16,13 @@ This timeline may not advance knowledge about the subject matter, but it may be 
 
 The Timeline of Developmental Theory uses a website called “timeline toast” to make this project a reality. It has three different formats, default view, wide view, and fullscreen mode. Another format you can toggle to is list, this completely changes it from a timeline into a simple list. It also allows you to browse the timeline and adjust the start or end years.
 
-![listviewoftimelineofdevelopmentaltheory.png](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/listviewoftimelineofdevelopmentaltheory.png)
+![listviewoftimelineofdevelopmentaltheory](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/listviewoftimelineofdevelopmentaltheory.png)
 
  It uses this technology to advance its goals and make it easier to learn about the different thinkers and theorists. This is a great feature for a teaching situation where only the years 1750-1900 are important. The use of technology is nicely demonstrated, as it allows the viewers to have a visual aid which could help in the memorization of developmental psychology information displayed. However, I do believe that traditional scholarship could easily replicate this technology, as it is not too complex that it cannot be copied. The website is easy to navigate as it is small, and everything is maintained in one page
 
 Something that could’ve been improved would be adding more context in certain places. For example, the years provided for each theorist has no context saying it was their birth and death years. I had to figure this out on my own, as my initial thought when I saw the years was that it had something to do with the length of their career. To me, this project is less of a timeline of the theories and more of a timeline of the theorists, since it does not actually mention which theories came first. 
 
-![charlesdarwinspage](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/charlesdarwinspage)
+![charlesdarwinspage](https://AnnabelleBlasiol.github.io/annabellesDH350/Images/charlesdawrinspage.png)
 
 Reviewing the “Timeline of Developmental Theory” has allowed me to reflect on what I want my project to look like. It has allowed me to see errors that I will be able to correct in my own timeline as well as things I would like to integrate into my timeline. I will be sure to correctly label each part of my timeline and provide context as to what numbers mean what. Something else I noticed when going through the timeline is that the theories may be added upon by a later theorist, but the timeline does not do well to reference the originating theorist and what theory inspiration was drawn from. I feel as if this takes away from the project as a whole, as it diminishes the origin of the theory and can make it more confusing for the reader.
 
