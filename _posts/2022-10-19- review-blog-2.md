@@ -1,5 +1,7 @@
 Project name: Timeline of Developmental Theory
+
 Project director: cstemple 
+
 Project url: https://www.timetoast.com/timelines/timeline-of-developmental-theory
 
 ## Review on [“Timeline of Developmental Theory”](https://www.timetoast.com/timelines/timeline-of-developmental-theory)
