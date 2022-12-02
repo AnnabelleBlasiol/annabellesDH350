@@ -1,4 +1,4 @@
-####Refelction Blog
+**Refelction Blog
 
 I began this class, I had pretty much no concept of what digital humanities was, over the course of this semester my knowledge has grown immensely. While Digital Humanities is still difficult to explain to an outsider looking in, this is what I do know. Digital Humanities is a form of humanities that involves technology, not just using a word document to write about history but incorporating technological aspects such as a timeline, mapping tools, etc., the possibilities are endless.
 
