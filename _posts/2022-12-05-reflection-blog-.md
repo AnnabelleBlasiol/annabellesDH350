@@ -6,7 +6,7 @@ When I began this class, I had pretty much no concept of what digital humanities
 
 While I often struggled to keep up with the readings, I did learn a lot from them. One of the one’s I enjoyed reading the most was “Nielson Norman Group, “Text Scanning Patterns: Eyetracking Evidence”” after reading that article I have learned what type of text scanning pattern I tend to use. Ever since I read it I have thought about it whenever I am reading something.
 
-Photo of tweet about reading
+![tweetabouttextscanningpatterns.png](annabellesDH350/Images/tweetabouttextscanningpatterns.png)
  
 
  I also try to keep it in mind when I am writing in order to get the most important information to catch each and every viewer’s attention. Many of the other readings helped me to understand what is classified as digital humanities, often times when I got confused in class there was a reading that would help me to better understand.
